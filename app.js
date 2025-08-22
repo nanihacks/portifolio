@@ -55,7 +55,7 @@ const portfolioData = {
       id: 4,
       title: "AI Health Diagnosis Web App",
       description: "AI Health Diagnosis web app dashboard showcasing intuitive risk assessments for Diabetes, Heart Disease, and Alzheimer’s with clear charts, vibrant design, and user-friendly interface for impactful health insights.",
-      image: "assets/portifolio.png",
+      image: "assets/ai-driven-digital-forensics.jpg",
       technologies: ["HTML","CSS","JavaScript","Tensorflow","Django","AI/ML"],
       demoLink: "https://github.com/nanihacks/ai_health_diagnosis",
       githubLink: "https://github.com/nanihacks/ai_health_diagnosis",
