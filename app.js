@@ -51,16 +51,16 @@ const portfolioData = {
       githubLink: "https://github.com/nanihacks",
       featured: true
     },
-    // {
-    //   id: 4,
-    //   title: "Modern Portfolio Website",
-    //   description: "Responsive portfolio website showcasing modern web development techniques including 3D animations, glassmorphism effects, and optimal user experience design.",
-    //   image: "https://via.placeholder.com/400x250/DC2626/FFFFFF?text=Portfolio+Website",
-    //   technologies: ["HTML5", "CSS3", "JavaScript", "3D Animations", "Responsive Design"],
-    //   demoLink: "https://github.com/nanihacks",
-    //   githubLink: "https://github.com/nanihacks",
-    //   featured: false
-    // }
+    {
+      id: 4,
+      title: "AI Health Diagnosis Web App",
+      description: "AI Health Diagnosis web app dashboard showcasing intuitive risk assessments for Diabetes, Heart Disease, and Alzheimer’s with clear charts, vibrant design, and user-friendly interface for impactful health insights.",
+      image: "assets/portifolio.png",
+      technologies: ["HTML","CSS","JavaScript","Tensorflow","Django","AI/ML"],
+      demoLink: "https://github.com/nanihacks/ai_health_diagnosis",
+      githubLink: "https://github.com/nanihacks/ai_health_diagnosis",
+      featured: true
+    }
   ],
   social: {
     email: "annampraveen2003@gmail.com",
