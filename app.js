@@ -27,8 +27,8 @@ const portfolioData = {
       description: "An AI-powered system designed to analyze crime data, detect unusual patterns, and provide insights using ML and Generative AI, supporting law enforcement with efficient investigation and predictive crime analysis.",
       image: "assets/ai-driven-digital-forensics.jpg",
       technologies: ["Python", "Django", "Artificial Intelligence", "Machine Learning"],
-      demoLink: "https://github.com/nanihacks",
-      githubLink: "https://github.com/nanihacks",
+      demoLink: "https://github.com/nanihacks/Crime_Ai",
+      githubLink: "https://github.com/nanihacks/Crime_Ai",
       featured: true
     },
     {
@@ -47,8 +47,8 @@ const portfolioData = {
       description: "A responsive personal portfolio website showcasing skills, projects, and contact information. Built with HTML, CSS, and JavaScript to provide smooth navigation, clean UI, and a professional online presence.",
       image: "assets/portifolio.png",
       technologies: ["HTML","CSS","JavaScript"],
-      demoLink: "https://github.com/nanihacks",
-      githubLink: "https://github.com/nanihacks",
+      demoLink: "https://nanihacks.github.io/portifolio/",
+      githubLink: "https://github.com/nanihacks/portifolio",
       featured: true
     },
     {
